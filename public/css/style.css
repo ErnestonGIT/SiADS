@@ -1,0 +1,16 @@
+::selection{
+    background-color: #6b1d4721
+}
+
+a{
+    color: #6b1d47;
+}
+input[type=checkbox]:checked{
+    background-color:#6b1d47
+}
+input[type=email]:active{
+    border-color: #6b1d47;
+}
+input[type=password]:active {
+    border-color: #6b1d47;
+}

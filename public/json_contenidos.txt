@@ -1,0 +1,28 @@
+{
+
+["id":1,
+"nombre":"Inicio"
+"tipo":0],	
+	
+["id":2,
+"nombre":"Optometria"
+"tipo":1,
+"archivo":"././././assets/documents/Optometria.pdf"],
+
+["id":3
+"nombre":"Odontologia"
+"tipo":2,
+"archivo":"././././assets/images/Odontologia.jpeg"],
+
+["id":4,
+"nombre":"Psicologia"
+"tipo":3,
+"seminario":"Psicoanalisis diferencial",
+"profesor1":"Aldair Perez Valencia|aldairperezv@cics.ipn.mx|5532690017",
+"profesor2":"Edgar Torres Sanchez|edgarsanchez@cics.ipn.mx|5532690018",
+"profesor3":"Daniel Luna Becerril|danielbecerril@cics.ipn.mx|5532690019",
+"descripcion":"El Psicoanálisis Diferencial es una aproximación teórica y clínica que se enfoca en las diferencias individuales en los procesos psíquicos, utilizando los principios del psicoanálisis para entender cómo las experiencias, las defensas y las estructuras mentales varían de una persona a otra. A diferencia del psicoanálisis tradicional, que tiende a buscar patrones universales en el inconsciente, el psicoanálisis diferencial pone énfasis en los matices y singularidades de cada sujeto, abordando las variaciones en la personalidad, los conflictos internos y las dinámicas emocionales. Esta corriente busca adaptar las intervenciones psicoanalíticas a las particularidades de cada individuo, reconociendo la diversidad de las respuestas psíquicas. Es un campo en el que se investigan tanto las influencias genéticas como las socio-culturales en la configuración psíquica y las patologías."
+"fechainicio":"26/11/2024",
+"fechafin":"26/01/2025"]
+
+}
